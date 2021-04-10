@@ -1,0 +1,11 @@
+.DS_Store
+
+crackme
+misc
+assets
+.ropeproject
+
+
+.gdb_history
+*.pdf
+*.zip
