@@ -20,7 +20,7 @@ dasm:
 	file crackme/*.out
 	@echo ""
 
-	for number in 01 02 03 ; do \
+	for number in 01 02 03 03_test; do \
 		objdump -S crackme/$$number.out > misc/dasm-$$number.S ; \
 		readelf -s crackme/$$number.out > misc/elf-$$number.txt ; \
 	done
