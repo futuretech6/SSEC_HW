@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "/usr/bin/python3",
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.S": "asm-intel-x86-generic",
+        "unistd.h": "c",
+        "string.h": "c",
+        "stdint.h": "c",
+        "cstdlib": "cpp",
+        "cmath": "c"
+    }
+}

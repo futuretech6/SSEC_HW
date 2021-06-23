@@ -1,0 +1,39 @@
+{
+	"files": [
+		{
+			"path": "misc/mallloc.c",
+			"bookmarks": [
+				{
+					"line": 1036,
+					"column": 0,
+					"label": "malloc_chunk"
+				},
+				{
+					"line": 1362,
+					"column": 0,
+					"label": "unlink"
+				},
+				{
+					"line": 1624,
+					"column": 0,
+					"label": "malloc_state"
+				},
+				{
+					"line": 3269,
+					"column": 0,
+					"label": "_int_malloc"
+				},
+				{
+					"line": 3301,
+					"column": 36,
+					"label": ""
+				},
+				{
+					"line": 3820,
+					"column": 0,
+					"label": "_int_free"
+				}
+			]
+		}
+	]
+}

@@ -5,7 +5,8 @@ misc
 assets
 .ropeproject
 
-
 .gdb_history
 *.pdf
 *.zip
+
+core
